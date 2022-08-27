@@ -1,0 +1,14 @@
+D:\archieve\Codes\Snacks\Snacks\bin\Debug\netcoreapp3.1\Snacks.exe
+D:\archieve\Codes\Snacks\Snacks\bin\Debug\netcoreapp3.1\Snacks.deps.json
+D:\archieve\Codes\Snacks\Snacks\bin\Debug\netcoreapp3.1\Snacks.runtimeconfig.json
+D:\archieve\Codes\Snacks\Snacks\bin\Debug\netcoreapp3.1\Snacks.runtimeconfig.dev.json
+D:\archieve\Codes\Snacks\Snacks\bin\Debug\netcoreapp3.1\Snacks.dll
+D:\archieve\Codes\Snacks\Snacks\bin\Debug\netcoreapp3.1\Snacks.pdb
+D:\archieve\Codes\Snacks\Snacks\obj\Debug\netcoreapp3.1\Snacks.AssemblyInfoInputs.cache
+D:\archieve\Codes\Snacks\Snacks\obj\Debug\netcoreapp3.1\Snacks.AssemblyInfo.cs
+D:\archieve\Codes\Snacks\Snacks\obj\Debug\netcoreapp3.1\Snacks.csproj.CoreCompileInputs.cache
+D:\archieve\Codes\Snacks\Snacks\obj\Debug\netcoreapp3.1\Snacks.dll
+D:\archieve\Codes\Snacks\Snacks\obj\Debug\netcoreapp3.1\Snacks.pdb
+D:\archieve\Codes\Snacks\Snacks\obj\Debug\netcoreapp3.1\Snacks.genruntimeconfig.cache
+D:\archieve\Codes\Snacks\Snacks\obj\Debug\netcoreapp3.1\Snacks.csproj.AssemblyReference.cache
+D:\archieve\Codes\Snacks\Snacks\obj\Debug\netcoreapp3.1\Snacks.GeneratedMSBuildEditorConfig.editorconfig

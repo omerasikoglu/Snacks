@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ölü Ruhların Dansı\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ölü Ruhların Dansı\\.nuget\\packages"
+    ]
+  }
+}
