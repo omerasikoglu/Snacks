@@ -17,13 +17,8 @@ namespace Snacks {
         private static void Main() {
 
             Test(); void Test() {
-
-
-
-
-
             }
-
+            Takkeler();
 
             IntArrayExamples();
             void IntArrayExamples() {
@@ -558,7 +553,7 @@ namespace Snacks {
                 numberNames.Add("asd", 1);
                 numberNames.Add(3, "üç");
                 numberNames.Add("dört", 4);
-                //foreach (DictionaryEntry dictionaryEntry in numberNames) {
+                //foreach(DictionaryEntry dictionaryEntry in numberNames) {
                 //    WriteLine(dictionaryEntry.Key);
                 //}
 
